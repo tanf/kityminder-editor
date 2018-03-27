@@ -80,7 +80,5 @@ angular.module('kityminderDemo', ['kityminderEditor'])
 问题和建议反馈：
 
 [Github issues](https://github.com/fex-team/kityminder-editor/issues)
-
 邮件组：kity@baidu.com
-
 QQ 讨论群：475962105
